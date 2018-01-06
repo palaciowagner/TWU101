@@ -15,10 +15,13 @@ public class Main {
         System.out.println(vertical.print(3, "*"));
 
         RightTriangle rightTriangle = new RightTriangle();
-        System.out.println(rightTriangle.drawTriangle(5));
+        System.out.println(rightTriangle.draw(5));
 
         Isosceles isosceles = new Isosceles();
-        System.out.println(isosceles.drawTriangle(20));
+        System.out.println(isosceles.draw(3));
+
+        Diamond diamond = new Diamond();
+        System.out.println(diamond.draw(20));
 
 
     }

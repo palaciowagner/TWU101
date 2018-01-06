@@ -27,17 +27,18 @@ public class TriangleTest {
     @Test
     public void shouldPrintARightTriangleWhenGivenANumber() {
         RightTriangle rightTriangle = new RightTriangle();
-        assertThat(rightTriangle.drawTriangle(3) , CoreMatchers.is("*\n**\n***\n"));
+        assertThat(rightTriangle.draw(3) , CoreMatchers.is("*\n**\n***\n"));
     }
 
     @Test
     public void shouldPrintAIsoscelesTriangleWhenGivenANumber() {
         Isosceles isosceles = new Isosceles();
-        assertThat(isosceles.drawTriangle(3) , CoreMatchers.is("  *  \n *** \n*****\n"));
+        assertThat(isosceles.draw(3) , CoreMatchers.is("  *  \n *** \n*****\n"));
     }
-//
-//    @Test
-//    public void shouldPrintADiamondWhenGivenANumber() {
-//        assertThat(triangle.drawDiamond(3) , CoreMatchers.is(" * \n *** \n ***** \n *** \n  *  \n"));
-//    }
+
+    @Test
+    public void shouldPrintADiamondWhenGivenANumber() {
+        Diamond diamond = new Diamond();
+        assertThat(diamond.draw(3) , CoreMatchers.is("  *  \n *** \n*****\n *** \n  *  \n"));
+    }
 }

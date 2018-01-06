@@ -1,14 +1,7 @@
 package com.company.entities;
 
-public abstract class Triangle {
+public abstract class Triangle extends Shape{
 
-    private Horizontal line;
-
-    public Triangle(){
-        this.line = new Horizontal();
-    }
-
-    public abstract String drawTriangle(int number);
 //
 //
 //    public String drawDiamond(int number) {
@@ -21,8 +14,6 @@ public abstract class Triangle {
 //        return result;
 //    }
 
-    public Horizontal getLine() {
-        return line;
-    }
+
 
 }

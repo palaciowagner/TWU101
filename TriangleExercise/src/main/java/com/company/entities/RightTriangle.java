@@ -2,7 +2,7 @@ package com.company.entities;
 
 public class RightTriangle extends Triangle {
 
-    public String drawTriangle(int number) {
+    public String draw(int number) {
         String result = "";
         for(int i = 1; i <= number; i++)
         {
