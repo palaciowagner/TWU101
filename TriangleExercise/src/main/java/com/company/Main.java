@@ -21,7 +21,7 @@ public class Main {
         System.out.println(isosceles.draw(3));
 
         Diamond diamond = new Diamond();
-        System.out.println(diamond.draw(20));
+        System.out.println(diamond.draw(3));
 
 
     }

@@ -41,4 +41,9 @@ public class TriangleTest {
         Diamond diamond = new Diamond();
         assertThat(diamond.draw(3) , CoreMatchers.is("  *  \n *** \n*****\n *** \n  *  \n"));
     }
+
+    @Test
+    public void shouldPrintADiamondWithANameWhenGivenANumber(){
+
+    }
 }
