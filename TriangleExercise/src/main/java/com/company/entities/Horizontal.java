@@ -8,6 +8,7 @@ public class Horizontal extends Line {
         for(int i = 0; i < number; i++){
             result += ASTERISK;
         }
+        result += LINE_ENTER;
         return result;
     }
 }

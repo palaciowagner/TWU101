@@ -26,7 +26,7 @@ public class TriangleTest {
     @Test
     public void shouldPrintAHorizontalLineWhenGivenANumber(){
         Horizontal line = new Horizontal();
-        assertThat(line.print(8) , CoreMatchers.is("********"));
+        assertThat(line.print(8) , CoreMatchers.is("********\n"));
     }
 
     @Test
@@ -35,10 +35,10 @@ public class TriangleTest {
         assertThat(vertical.print(3) , CoreMatchers.is("*\n*\n*\n"));
     }
 
-//    @Test
-//    public void shouldPrintARightTriangleWhenGivenANumber() {
-//        assertThat(triangle.drawRightTriangle(3) , CoreMatchers.is("*\n**\n***\n"));
-//    }
+    @Test
+    public void shouldPrintARightTriangleWhenGivenANumber() {
+        assertThat(triangle.drawRightTriangle(3) , CoreMatchers.is("*\n**\n***\n"));
+    }
 //
 //    @Test
 //    public void shouldPrintAIsoscelesTriangleWhenGivenANumber() {
