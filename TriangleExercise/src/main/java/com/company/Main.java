@@ -23,6 +23,9 @@ public class Main {
         Diamond diamond = new Diamond();
         System.out.println(diamond.draw(3));
 
+        DiamondWithName diamond2 = new DiamondWithName();
+        System.out.println(diamond2.draw(20));
+
 
     }
 
