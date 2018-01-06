@@ -23,30 +23,30 @@ public class TriangleTest {
         assertThat(asterisk.print() , CoreMatchers.is("*"));
     }
 
-    /*@Test
+    @Test
     public void shouldPrintAHorizontalLineWhenGivenANumber(){
         Horizontal line = new Horizontal();
-        assertThat(line.draw(8) , CoreMatchers.is("********"));
+        assertThat(line.print(8) , CoreMatchers.is("********"));
     }
 
     @Test
     public void shouldPrintAVerticalLineWhenGivenANumber() {
         Vertical vertical = new Vertical();
-        assertThat(vertical.draw(3) , CoreMatchers.is("*\n*\n*\n"));
+        assertThat(vertical.print(3) , CoreMatchers.is("*\n*\n*\n"));
     }
 
-    @Test
-    public void shouldPrintARightTriangleWhenGivenANumber() {
-        assertThat(triangle.drawRightTriangle(3) , CoreMatchers.is("*\n**\n***\n"));
-    }
-
-    @Test
-    public void shouldPrintAIsoscelesTriangleWhenGivenANumber() {
-        assertThat(triangle.drawIsoscelesTriangle(3) , CoreMatchers.is("\t*\t\n\t***\t\n*****\n"));
-    }
-
-    @Test
-    public void shouldPrintADiamondWhenGivenANumber() {
-        assertThat(triangle.drawDiamond(3) , CoreMatchers.is(" * \n *** \n ***** \n *** \n  *  \n"));
-    }*/
+//    @Test
+//    public void shouldPrintARightTriangleWhenGivenANumber() {
+//        assertThat(triangle.drawRightTriangle(3) , CoreMatchers.is("*\n**\n***\n"));
+//    }
+//
+//    @Test
+//    public void shouldPrintAIsoscelesTriangleWhenGivenANumber() {
+//        assertThat(triangle.drawIsoscelesTriangle(3) , CoreMatchers.is("\t*\t\n\t***\t\n*****\n"));
+//    }
+//
+//    @Test
+//    public void shouldPrintADiamondWhenGivenANumber() {
+//        assertThat(triangle.drawDiamond(3) , CoreMatchers.is(" * \n *** \n ***** \n *** \n  *  \n"));
+//    }
 }
