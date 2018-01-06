@@ -1,6 +1,6 @@
 package com.company.entities;
 
-public class Triangle {
+public abstract class Triangle {
 
     private Horizontal line;
 
@@ -8,22 +8,7 @@ public class Triangle {
         this.line = new Horizontal();
     }
 
-    public String drawRightTriangle(int number){
-        String result = "";
-        for(int i = 1; i <= number; i++)
-        {
-            result += this.line.print(i);
-        }
-        return result;
-    }
-
-//    public String drawIsoscelesTriangle(int number) {
-//        String result = "";
-//        for (int i = 1; i < number * 2; i += 2){
-//            result += "\t" + drawHorizontalLine(i) + "\t" + "\n";
-//        }
-//        return result;
-//    }
+    public abstract String drawTriangle(int number);
 //
 //
 //    public String drawDiamond(int number) {
@@ -40,7 +25,4 @@ public class Triangle {
         return line;
     }
 
-    public void setLine(Horizontal line) {
-        this.line = line;
-    }
 }

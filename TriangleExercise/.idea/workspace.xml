@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -25,22 +25,20 @@
       <file leaf-file-name="TriangleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="315">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,31 +47,49 @@
       <file leaf-file-name="OneAsterisk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/OneAsterisk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
-                <element signature="e#950#951#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RightTriangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/RightTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Isosceles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Isosceles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,8 +97,8 @@
       <file leaf-file-name="Line.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Line.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Horizontal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -101,8 +117,8 @@
       <file leaf-file-name="Vertical.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Vertical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -135,14 +151,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Email.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/entities/NotaFiscal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/OneAsterisk.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Line.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Vertical.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Horizontal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/OneAsterisk.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/RightTriangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Isosceles.java" />
         <option value="$PROJECT_DIR$/src/test/java/TriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Line.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/entities/Vertical.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -259,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TriangleTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -380,11 +398,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TriangleTest.shouldPrintOneAsterisk" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TriangleTest.shouldPrintAVerticalLineWhenGivenANumber" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TriangleTest.shouldPrintAHorizontalLineWhenGivenANumber" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TriangleTest.shouldPrintOneAsterisk" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TriangleTest.shouldPrintAVerticalLineWhenGivenANumber" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TriangleTest.shouldPrintAHorizontalLineWhenGivenANumber" />
       </list>
     </recent_temporary>
   </component>
@@ -405,9 +423,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangleTest - 2018.01.06 at 16h 39m 56s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TriangleTest - 2018.01.06 at 17h 07m 26s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
@@ -423,17 +438,20 @@
     <history-entry file="TriangleTest - 2018.01.06 at 17h 20m 12s.xml">
       <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest_shouldPrintAHorizontalLineWhenGivenANumber - 2018.01.06 at 16h 46m 14s.xml">
-      <configuration name="TriangleTest.shouldPrintAHorizontalLineWhenGivenANumber" configurationId="JUnit" />
+    <history-entry file="TriangleTest - 2018.01.06 at 18h 34m 33s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest_shouldPrintAVerticalLineWhenGivenANumber - 2018.01.06 at 16h 46m 21s.xml">
-      <configuration name="TriangleTest.shouldPrintAVerticalLineWhenGivenANumber" configurationId="JUnit" />
+    <history-entry file="TriangleTest - 2018.01.06 at 18h 40m 41s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest_shouldPrintOneAsterisk - 2018.01.06 at 16h 58m 00s.xml">
-      <configuration name="TriangleTest.shouldPrintOneAsterisk" configurationId="JUnit" />
+    <history-entry file="TriangleTest - 2018.01.06 at 18h 41m 31s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest_shouldPrintOneAsterisk - 2018.01.06 at 17h 07m 19s.xml">
-      <configuration name="TriangleTest.shouldPrintOneAsterisk" configurationId="JUnit" />
+    <history-entry file="TriangleTest - 2018.01.06 at 18h 44m 06s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangleTest - 2018.01.06 at 18h 47m 59s.xml">
+      <configuration name="TriangleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -446,9 +464,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40324596" sideWeight="0.50277776" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40324596" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40324596" sideWeight="0.49722221" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -501,14 +519,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/company/entities/Triangle.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
@@ -528,8 +538,6 @@
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -559,83 +567,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Line.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Vertical.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Horizontal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/OneAsterisk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Isosceles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/RightTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Vertical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
