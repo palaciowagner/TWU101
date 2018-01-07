@@ -25,8 +25,8 @@
       <file leaf-file-name="ExerciseTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ExerciseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="270">
+              <caret line="18" column="68" lean-forward="false" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="22" />
+              <caret line="11" column="22" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -92,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Line.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -152,9 +152,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -180,24 +179,6 @@
           <expand>
             <path>
               <item name="TriangleExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TriangleExercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TriangleExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TriangleExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TriangleExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TriangleExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TriangleExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TriangleExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="TriangleExercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -430,7 +411,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -537,10 +518,10 @@
         <state relative-caret-position="90">
           <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#143#144#0" expanded="false" />
+            <element signature="e#214#215#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -584,7 +565,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -592,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -608,7 +589,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/entities/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="22" />
+          <caret line="11" column="22" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -655,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ExerciseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="270">
+          <caret line="18" column="68" lean-forward="false" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
