@@ -7,23 +7,28 @@ public class FizzBuzz {
         String result = "";
 
         for (int i = 1; i <= maxNumber; i++){
-            String text = "";
-            text = Integer.toString(i);
+            result += buildFizzBuzzText(i);
+        }
+        return result;
+    }
 
-            if (isFizz(i)) {
-                text = FIZZ;
-                if (isBuzz(i)){
-                    text += BUZZ;
-                }
+    private String buildFizzBuzzText(int i) {
+        String text = "";
+
+        text = Integer.toString(i);
+
+            if (isFizz(i) && isBuzz(i)) {
+                text = FIZZ + BUZZ;
             }
-            else if(isBuzz(i)){
+
+            else if (isFizz(i)) {
+                text = FIZZ;
+            }
+            else if (isBuzz(i)) {
                 text = BUZZ;
             }
 
-            result += text + "\n";
-
-        }
-        return result;
+        return text + "\n";
     }
 
     public boolean isFizz(int number){
